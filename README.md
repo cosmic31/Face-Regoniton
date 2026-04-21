@@ -1,2 +1,2 @@
 # Face-Recogoniton
-Config files for my GitHub profile.
+This project implements a Face Recognition system using a Multi-Layer Perceptron classifier, optimized through Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA). It leverages Structured Approximation techniques to reduce data dimensionality into Eigen Faces, demonstrating a core ML Systems principle of balancing model expressiveness with computational efficiency. The project utilizes the Keras/TensorFlow stack to navigate the ML Lifecycle from feature extraction to statistical evaluation.
